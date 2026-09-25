@@ -68,6 +68,7 @@ A Python-based interactive guessing game with multiple difficulty levels, scorin
 
 Akshra
 Class 12 Graduate | Learning Python | Building beginner projects
+This project was created right after completing Class 12 as part of my early programming journey.
 
 ## ⭐ Notes
 
